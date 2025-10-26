@@ -8,9 +8,9 @@
 
 <p align="center">
   <!-- Replace placeholders with your links -->
-  <a href="https://github.com/nb"><img alt="GitHub followers" src="https://img.shields.io/github/followers/nb?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-hey%40you-green?logo=gmail"></a>
+  <a href="[https://github.com/nb"><img alt=](https://github.com/BonheurN)"GitHub followers" src="https://img.shields.io/github/followers/nb?label=Follow&style=social"></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ndamukunda615/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:ndamukunda098765@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hey%40you-green?logo=gmail"></a>
   <img alt="Top language" src="https://img.shields.io/github/languages/top/nb/your-repo?label=Top%20Language">
   <img alt="ALX" src="https://img.shields.io/badge/ALX-Backend-red">
 </p>
